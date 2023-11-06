@@ -1,1 +1,3 @@
 # ohtuvarasto
+
+Ohjelmistotuotanto-kurssin tehätävärepo
